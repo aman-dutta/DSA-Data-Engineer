@@ -1,0 +1,10 @@
+Python collections (Arrays)
+
+1) List:
+    is ordered and changeable. Allows duplicate members
+2) Tuple
+    is ordered and unchangeable. Allows duplicate members
+3) Set
+     is unordered, unchangeable*, and unindexed. No duplicate members. (unchangeable but we can remove or add items)
+4) Dictionary
+    is ordered and changeable. No duplicate members (Before Python 3.7, unordered. After Python 3.6 ordered)
